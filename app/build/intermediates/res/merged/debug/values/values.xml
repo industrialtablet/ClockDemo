@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="black">#000000</drawable>
+    <drawable name="blue">#0000FF</drawable>
+    <drawable name="red">#FF0000</drawable>
+    <drawable name="white">#FFFFFFFF</drawable>
+    <string name="app_name">EX06_10</string>
+    <string name="hello">Hello World, EX06_10</string>
+    <string name="str_button2">删除闹钟</string>
+    <string name="str_button_gpio_off">继电器关</string>
+    <string name="str_button_gpio_on">继电器开</string>
+    <string name="str_button_off">设置关机闹钟</string>
+    <string name="str_button_off_on">RK3288开关机测试</string>
+    <string name="str_button_on">设置开机闹钟</string>
+    <string name="str_default">目前无设置</string>
+    <string name="str_text1">开始时间</string>
+    <string name="str_text2">重复响起的闹钟</string>
+    <string name="str_text3">秒</string>
+    <string name="str_title1">只响一次的闹钟</string>
+    <string name="str_title2">重复响起的闹钟</string>
+</resources>

@@ -1,0 +1,349 @@
+[
+    {
+        "outputFile": "/Users/pengyixing/develop/ClockDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/pengyixing/develop/ClockDemo/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 100,
+                        "endColumn": 42,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 44,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "/Users/pengyixing/develop/ClockDemo/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 144,
+                        "endColumn": 41,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 43,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "/Users/pengyixing/develop/ClockDemo/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 187,
+                        "endColumn": 40,
+                        "endOffset": 226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 47,
+                    "endOffset": 233
+                },
+                "from": {
+                    "file": "/Users/pengyixing/develop/ClockDemo/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 44,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 238,
+                    "endColumn": 44,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "/Users/pengyixing/develop/ClockDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 104,
+                        "endColumn": 41,
+                        "endOffset": 144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 283,
+                    "endColumn": 54,
+                    "endOffset": 333
+                },
+                "from": {
+                    "file": "/Users/pengyixing/develop/ClockDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 338,
+                    "endColumn": 44,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "/Users/pengyixing/develop/ClockDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 393,
+                        "endColumn": 41,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 383,
+                    "endColumn": 52,
+                    "endOffset": 431
+                },
+                "from": {
+                    "file": "/Users/pengyixing/develop/ClockDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 239,
+                        "endColumn": 49,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 436,
+                    "endColumn": 51,
+                    "endOffset": 483
+                },
+                "from": {
+                    "file": "/Users/pengyixing/develop/ClockDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 289,
+                        "endColumn": 48,
+                        "endOffset": 336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 488,
+                    "endColumn": 49,
+                    "endOffset": 533
+                },
+                "from": {
+                    "file": "/Users/pengyixing/develop/ClockDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 146,
+                        "endColumn": 46,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 538,
+                    "endColumn": 57,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "/Users/pengyixing/develop/ClockDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 338,
+                        "endColumn": 54,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 596,
+                    "endColumn": 48,
+                    "endOffset": 640
+                },
+                "from": {
+                    "file": "/Users/pengyixing/develop/ClockDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 193,
+                        "endColumn": 45,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 645,
+                    "endColumn": 45,
+                    "endOffset": 686
+                },
+                "from": {
+                    "file": "/Users/pengyixing/develop/ClockDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 523,
+                        "endColumn": 42,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 691,
+                    "endColumn": 42,
+                    "endOffset": 729
+                },
+                "from": {
+                    "file": "/Users/pengyixing/develop/ClockDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 566,
+                        "endColumn": 39,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 734,
+                    "endColumn": 45,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "/Users/pengyixing/develop/ClockDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 606,
+                        "endColumn": 42,
+                        "endOffset": 647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 780,
+                    "endColumn": 39,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "/Users/pengyixing/develop/ClockDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 649,
+                        "endColumn": 36,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endColumn": 46,
+                    "endOffset": 862
+                },
+                "from": {
+                    "file": "/Users/pengyixing/develop/ClockDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 435,
+                        "endColumn": 43,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 867,
+                    "endColumn": 46,
+                    "endOffset": 909
+                },
+                "from": {
+                    "file": "/Users/pengyixing/develop/ClockDemo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 479,
+                        "endColumn": 43,
+                        "endOffset": 521
+                    }
+                }
+            }
+        ]
+    }
+]

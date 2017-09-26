@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<DigitalClock android:id="@+id/dClock"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:textSize="40sp" android:textColor="@drawable/blue" />
+
+	<Button android:id="@+id/mSetOff" android:layout_width="100dp"
+		android:layout_height="wrap_content" android:text="@string/str_button_off"
+		android:textColor="@drawable/red" android:textSize="18sp" />
+
+	<Button android:id="@+id/mSetOn" android:layout_width="100dp"
+		android:layout_height="wrap_content" android:text="@string/str_button_on"
+		android:textColor="@drawable/red" android:textSize="18sp" />
+
+	<Button android:id="@+id/mSetGpioOn" android:layout_width="100dp"
+		android:layout_height="wrap_content" android:text="@string/str_button_gpio_on"
+		android:textColor="@drawable/red" android:textSize="18sp" />
+
+	<Button android:id="@+id/mSetGpioOff" android:layout_width="100dp"
+		android:layout_height="wrap_content" android:text="@string/str_button_gpio_off"
+		android:textColor="@drawable/red" android:textSize="18sp" />
+
+	<Button android:id="@+id/mSetOffOn" android:layout_width="100dp"
+		android:layout_height="wrap_content" android:text="@string/str_button_off_on"
+		android:textColor="@drawable/red" android:textSize="18sp" />
+</LinearLayout>
